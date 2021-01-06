@@ -15,7 +15,7 @@ The test cases consider:
 * A group of two people (they know each other)
 * A group of two people (they don't know each other)
 * A group of four people (with a celebrity)
-* A group of four people ("celebrity" knows one person)
+* A group of four people (one person doesn't know the "celebrity")
 
 ## Build and Run
 
